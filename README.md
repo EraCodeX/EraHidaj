@@ -97,11 +97,11 @@ A real estate marketplace supporting full authentication (Email & Google), advan
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=era123-1&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=EraCodeX&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=era123-1&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=EraCodeX&theme=tokyonight" />
 </p>
 
 
